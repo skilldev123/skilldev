@@ -1,0 +1,26 @@
+
+.tc{
+    margin-left: auto !important;
+    margin-right: auto !important;
+  
+}
+
+.th{
+    writing-mode:vertical-rl !important;
+}
+.tc.ui.table thead th {
+    /* color:white !important; */
+    background-color: #efd2c9 !important;
+    border-bottom: 2px solid rgba(34,36,38,.1) !important;
+  
+}
+
+.tc.ui.table thead tr:first-child>th:last-child {
+    background: #f58a42 !important;
+}
+.formheader{
+    background-color: #f06347;
+  text-align: center;
+  padding: auto;
+  margin: 10px 10px 20px 10px;
+}

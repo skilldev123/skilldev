@@ -1,0 +1,19 @@
+.ti.ui.table thead tr:first-child>th:last-child {
+    background: #22c95f !important;
+  }
+  .ti.ui.table thead th {
+    background-color: #a2f1af !important;
+    border-bottom: 2px solid rgba(34,36,38,.1) !important;
+  }
+  .formheader3{
+    background-color: #1e5227;
+    text-align: center;
+    padding: auto;
+    margin: 10px 10px 20px 10px;
+    color:white;
+  }
+  .ti{
+    margin-left: auto !important;
+    margin-right: auto !important;
+    box-shadow: 2px 2px 10px rgb(168, 164, 164) !important;
+  }

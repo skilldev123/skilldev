@@ -1,0 +1,19 @@
+.td.ui.table thead th {
+    background-color: #ddf0fe !important;
+    border-bottom: 2px solid rgba(34,36,38,.1) !important;
+  }
+  .formheader1{
+    background-color: #1e4452;
+    text-align: center;
+    padding: auto;
+    margin: 10px 10px 20px 10px;
+    color:white;
+  }
+  .td.ui.table thead tr:first-child>th:last-child {
+    background: #22aac9 !important;
+  }
+  .td{
+    margin-left: auto !important;
+    margin-right: auto !important;
+    box-shadow: 2px 2px 10px rgb(168, 164, 164) !important;
+  }
